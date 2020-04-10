@@ -26,6 +26,8 @@ dependencies:
   google_maps_flutter: ^0.5.11
 #dependencia para poder ustilizar GPS del telefono.
   geolocator: ^5.3.1
+#for location
+  location: ^2.3.5
 dev_dependencies:
   flutter_test:
     sdk: flutter
